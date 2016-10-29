@@ -4,7 +4,7 @@
 * Exploits the dirtycow bug to change the password of root on an unpatched
 * Ubuntu Linux install.
 *
-* PoC code used from madc0w.c
+* PoC code used from dirtyc0w.c
 *
 * Tested on Linux Mint 18
 *
