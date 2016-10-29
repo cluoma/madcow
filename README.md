@@ -9,5 +9,7 @@ Madcow lets a non-priviledged user change the root password on a vulnerable Ubun
 ### Usage
 
 Clone the repo
+
 make
+
 ./madcow newrootpassword
